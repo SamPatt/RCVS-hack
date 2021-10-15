@@ -7,7 +7,7 @@ In solidarity with the hackers responsible for this epic hack, I'm releasing the
 
 *Please exercise your own moral judgment about the targets you select with RCVS-hack. I accept no responsibility for your actions.*
 
-## How to use
+## How to use (PC only — see notes on Mac below)
 
 RCVS-hack is based on the method known as Right-Click-View-Source (RCVS). 
 
@@ -18,15 +18,21 @@ Web browsers which are specifically designed to assist hackers, such as Chrome a
 
 This converts and decodes the HTML source code.
 
-### Example
+#### Example
 
 ![RCVS in action](./RCVS.gif)
 
-### Alternative method
+#### Alternative method
 
 This advanced method works for those with keyboards created specifically for hacking and can bypass the need for right clicking:
 
 1. Press the "F12" key
+
+## MacOS support (advanced)
+
+Mac support is still experimental, but advanced hackers can try to follow [Apple's instructions here](https://support.apple.com/en-gb/guide/mac-help/mh35853/mac).
+
+Please note that doing so—like everything in this HOWTO—would be at your own risk.
 
 ## Results
 
