@@ -21,3 +21,13 @@ This converts and decodes the HTML source code.
 ### Example
 
 ![RCVS in action](./RCVS.gif)
+
+### Alternative method
+
+This advanced method works for those with keyboards created specifically for hacking and can bypass the need for right clicking:
+
+1. Press the "F12" key
+
+## Results
+
+The RCVS method has a 100% success rate at converting and decoding the HTML source code. Utilize this tool at your own risk, as political leaders are slowly catching onto our advanced techniques. I recommend being behind seven proxies before launching RCVS-hack on any state websites.
