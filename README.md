@@ -7,7 +7,9 @@ In solidarity with the hackers responsible for this epic hack, I'm releasing the
 
 *Please exercise your own moral judgment about the targets you select with RCVS-hack. I accept no responsibility for your actions.*
 
-## How to use (PC only — see notes on Mac below)
+## How to use
+
+### PC support
 
 RCVS-hack is based on the method known as Right-Click-View-Source (RCVS). 
 
@@ -28,11 +30,10 @@ This advanced method works for those with keyboards created specifically for hac
 
 1. Press the "F12" key
 
-## MacOS support (advanced)
+### MacOS support
 
-Mac support is still experimental, but advanced hackers can try to follow [Apple's instructions here](https://support.apple.com/en-gb/guide/mac-help/mh35853/mac).
+Mac support is experimental. Advanced hackers can try to follow [Apple's instructions here](https://support.apple.com/en-gb/guide/mac-help/mh35853/mac).
 
-Please note that doing so—like everything in this HOWTO—would be at your own risk.
 
 ## Results
 
