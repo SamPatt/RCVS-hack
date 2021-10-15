@@ -9,6 +9,8 @@ In solidarity with the hackers responsible for this epic hack, I'm releasing the
 
 ## How to use
 
+### PC support
+
 RCVS-hack is based on the method known as Right-Click-View-Source (RCVS). 
 
 Web browsers which are specifically designed to assist hackers, such as Chrome and Firefox, already have the RCVS method implemented. You can access it via the following steps:
@@ -18,15 +20,20 @@ Web browsers which are specifically designed to assist hackers, such as Chrome a
 
 This converts and decodes the HTML source code.
 
-### Example
+#### Example
 
 ![RCVS in action](./RCVS.gif)
 
-### Alternative method
+#### Alternative method
 
 This advanced method works for those with keyboards created specifically for hacking and can bypass the need for right clicking:
 
 1. Press the "F12" key
+
+### MacOS support
+
+Mac support is experimental. Advanced hackers can try to follow [Apple's instructions here](https://support.apple.com/en-gb/guide/mac-help/mh35853/mac).
+
 
 ## Results
 
