@@ -34,6 +34,14 @@ This advanced method works for those with keyboards created specifically for hac
 
 Mac support is experimental. Advanced hackers can try to follow [Apple's instructions here](https://support.apple.com/en-gb/guide/mac-help/mh35853/mac).
 
+### Android/iOS support
+
+This method will work on browsers for both Android and iOS devices.
+
+1. Tap the search bar
+2. Position the cursor at the very beginning of the URL
+3. Add "view-source:" to the URL
+4. You should now have a URL that looks like "view-source:https://..."
 
 ## Results
 
