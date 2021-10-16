@@ -1,7 +1,7 @@
 # RCVS-hack
 RCVS-hack is a sophisticated tool to convert and decode HTML source code.
 
-RCVS-hack gained fame in October 2021 when it was [successfully deployed](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/) against the Missouri  Department of Elementary and Secondary Education. The hacker used RCSV-hack to gain unauthorized access to personal information of state employees. This leet hax0r then performed the advanced technique known as "responsible disclosure," embarrassing the state and selling headlines for their news outlet. 
+RCVS-hack gained fame in October 2021 when it was [successfully deployed](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/) against the Missouri  Department of Elementary and Secondary Education. The hacker used RCVS-hack to gain unauthorized access to personal information of state employees. This leet hax0r then performed the advanced technique known as "responsible disclosure," embarrassing the state and selling headlines for their news outlet. 
 
 In solidarity with the hackers responsible for this epic hack, I'm releasing the tool they used to the public. I hope to see it embarrassing clueless political leaders for many years to come.
 
